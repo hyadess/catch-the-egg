@@ -1,0 +1,5 @@
+tys 820
+sayem 1010
+sayem 1219
+
+ftrs 1273
